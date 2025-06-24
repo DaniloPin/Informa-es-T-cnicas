@@ -2,9 +2,9 @@ Precisei criar um sistema para uma loja de software. Cada produto digital tem um
 
 Criei:
 
-Uma classe InformacaoTecnica com:
-Propriedades TamanhoMB e SistemaOperacional.
+- Uma classe InformacaoTecnica com:
+    - Propriedades TamanhoMB e SistemaOperacional.
 
-Uma classe ProdutoDigital com:
-Propriedades Nome, Preco e InfoTecnica (do tipo InformacaoTecnica).
-Um método ExibirDetalhes() para mostrar tudo na tela.
+- Uma classe ProdutoDigital com:
+    - Propriedades Nome, Preco e InfoTecnica (do tipo InformacaoTecnica).
+    - Um método ExibirDetalhes() para mostrar tudo na tela.
